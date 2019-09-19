@@ -2,4 +2,7 @@
 Fork me!
 
 # About me
-Add a quick description of yourself down here. No using the Git website! You have to do it from within PyCharm.
+My name is Gil Dexter. I spend a large amount of my time
+rowing and doing school. I eat a lot of beans and greek yogurt, 
+and I am majoring in Computer Science and pre-med. I would 
+like to minor in Strength and Conditioning.
